@@ -42,3 +42,32 @@ Run `nox`
    ```
 
 this should install a Sphinx environment and build the site, putting the output files in `_build/html`. -->
+
+
+
+# Profile Website
+
+Welcome to my profile webiste, Computer Science Majors and others of interest
+<!-- enter your target audience after the comma above -->
+
+Since you're here, you might be: 
+- Intrested In my achievements along with my certificates
+- You learn more about me and my interest in the about page
+- Realate to my life and ask questions
+
+
+## Design
+
+- My web design will be simplem and easy to use for any and everyone. It will showcase an about me section where I go into depth about myself and my passions.
+- I will include my goals as well. Addtionally I will post my achievements and certificates I have earned on my site.
+- I will include pictures of me doing computer science and things of that nature.
+- People will be able to relate to me and be able to ask questions through my email and live chat
+
+
+## Accessibility
+- I will have a text to speech feature the visual impairment users
+- I will color switching for color blind users
+- Biggerfont sizes
+- Ability to adjust the font size
+- structure my page using different headings
+
