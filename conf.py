@@ -52,12 +52,9 @@ with open ('info.yml','r') as f:
 html_theme_options = {
   "github_url": "https://github.com/KaddenG52",
   "twitter_url": "https://twitter.com/username",
-  "search_bar_text": "Looking For Something...",
-#   "navbar_end": ["search-field.html"],
-}
 
-html_theme_options = {
-   ...
+"search_bar_text": "Looking For Something...",
+#   "navbar_end": ["search-field.html"],
    "announcement": "Here's a <a href='https://pydata.org'>PyData Announcement!</a>",
 }
 

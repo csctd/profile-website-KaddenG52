@@ -111,7 +111,7 @@ div.timeline div.entry::after {
     top: 1em;
     display: block;
     position: absolute;
-    border: 1px black solid;
+    border: 1px rgb(204, 21, 21) solid;
     z-index: 999;
 }
 
