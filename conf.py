@@ -50,10 +50,11 @@ with open ('info.yml','r') as f:
 
 
 html_theme_options = {
-  "github_url": "https://github.com/username/",
+  "github_url": "https://github.com/KaddenG52",
   "twitter_url": "https://twitter.com/username",
-  "search_bar_text": "Search this site...",
+  "search_bar_text": "Looking For Something...",
 #   "navbar_end": ["search-field.html"],
+   "announcement": "Here's a <a href='https://pydata.org'>PyData Announcement!</a>",
 }
 
 # html_favicon = "_static/favicon.ico"

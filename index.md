@@ -1,6 +1,6 @@
-# Page Title
+# Exlporing TD With KG
 
-A short introduction for the top of your main page
+Explore my site to get a birds eye view of what I experienced while attending Talent Devolpement
 
 
 More content you want on your page
@@ -14,3 +14,4 @@ use this to make a menu when you add more pages -->
 
 pechakucha
 ```
+
