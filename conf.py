@@ -54,10 +54,6 @@ html_theme_options = {
   "twitter_url": "https://twitter.com/username",
   "search_bar_text": "Looking For Something...",
 #   "navbar_end": ["search-field.html"],
-}
-
-html_theme_options = {
-   ...
    "announcement": "Here's a <a href='https://pydata.org'>PyData Announcement!</a>",
 }
 
